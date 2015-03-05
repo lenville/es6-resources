@@ -7,7 +7,7 @@
   * 注：内大部分地区无法正常使用，可以翻墙或代理 https://www.chromestatus.com/features.json 到 http://lenville.u.qiniudn.com/features.json 即可正常使用
 
 ## [Addy 的 ECMAScript 6 工具集](https://github.com/addyosmani/es6-tools)
-* [Transpilers](https://github.com/addyosmani/es6-tools#transpilers)
+* [Transpilers](https://github.com/addyosmani/es6-tools#transpilers) : Transpiler 是将一种语言的源码转换为另一种语言的源码的编译器, 又称 [Source-to-source Compiler](http://en.wikipedia.org/wiki/Source-to-source_compiler), 这里有一个关于 Transpiler 如何翻译命名的 [讨论](https://github.com/lenville/es6-resources/issues/1)
 * [Build-time transpilation](https://github.com/addyosmani/es6-tools#build-time-transpilation) : 
   * [Grunt Tasks](https://github.com/addyosmani/es6-tools#grunt-tasks)
   * [Gulp Plugins](https://github.com/addyosmani/es6-tools#gulp-plugins)
