@@ -33,11 +33,11 @@
 
 |   Rate   |                 Title                |       Author     | URL |
 | :------: | :----------------------------------: | :--------------: | :-: |
-| ¡ï¡ï¡ï¡ï¡ï | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ¡ï¡ï¡ï¡î¡î |       Using ECMAScript 6 today       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+| â˜…â˜…â˜…â˜…â˜… | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
+| â˜…â˜…â˜…â˜†â˜† |       Using ECMAScript 6 today       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## Required Reading
 
 |   Rate   | Title | Author | URL |
 | :------: | :-: | :-: | :-: |
-| ¡ï¡ï¡ï¡ï¡ï | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
+| â˜…â˜…â˜…â˜…â˜… | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
