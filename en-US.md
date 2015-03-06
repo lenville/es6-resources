@@ -1,7 +1,7 @@
 ## Support Tracker
-* [Official Harmony Specification Drafts](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [ECMAScript Compatibility Table](http://kangax.github.io/compat-table/es6/) by [kangax](kangax)
 ![ecmascript-6-compatibility-table](https://cloud.githubusercontent.com/assets/1564923/6500314/211bbcf4-c345-11e4-89b2-a7d6f5167a41.png)
+* [Official Harmony Specification Drafts](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 * [ECMAScript 6 support in Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla) by [Mozilla](https://developer.mozilla.org/)
 * [ECMAScript 6 support in V8](https://code.google.com/p/v8/issues/list?q=label:Harmony) by [Google V8 Team](https://code.google.com/p/v8/)
 * [Web Platform Features](https://www.chromestatus.com/features#es6) by [Chromium Team](http://www.chromium.org/developers/web-platform-status)
@@ -28,3 +28,16 @@
 * [Editors](https://github.com/addyosmani/es6-tools#editors)
 * [Parsers](https://github.com/addyosmani/es6-tools#parsers)
 * [Other](https://github.com/addyosmani/es6-tools#other)
+
+## Conf Videos
+
+|   Rate   |                 Title                |       Author     | URL |
+| :------: | :----------------------------------: | :--------------: | :-: |
+| ¡ï¡ï¡ï¡ï¡ï | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
+| ¡ï¡ï¡ï¡î¡î |       Using ECMAScript 6 today       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+
+## Required Reading
+
+|   Rate   | Title | Author | URL |
+| :------: | :-: | :-: | :-: |
+| ¡ï¡ï¡ï¡ï¡ï | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
