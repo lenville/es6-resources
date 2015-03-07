@@ -34,11 +34,11 @@
 
 |   Rate   |                 Title                |       Author     | URL |
 | :------: | :----------------------------------: | :--------------: | :-: |
-| ★★★★★ | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ★★★☆☆ |       Using ECMAScript 6 today       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+| ★★★★★ |   JavaScript 的未来 : ES6 和 ES7   |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
+| ★★★☆☆ |        快来用  ECMAScript 6        | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## 必读文章 & 文档
 
 |   Rate   | Title | Author | URL |
 | :------: | :-: | :-: | :-: |
-| ★★★★★ | Overview of ECMAScript 6 features | lukehoban |  [Github](https://github.com/lukehoban/es6features) |
+| ★★★★★ |       ECMAScript 6 特性速览       | lukehoban |  [Github](https://github.com/lukehoban/es6features) |
