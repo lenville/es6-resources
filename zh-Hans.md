@@ -32,15 +32,20 @@
 
 ## 演讲集锦
 
-|   Rate   |                 Title                |       Author     | URL |
+|   推荐等级   |                 标题                |       作者     | 链接 |
 | :------: | :----------------------------------: | :--------------: | :-: |
-| ★★★★★ |   JavaScript 的未来 : ES6 和 ES7   |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ★★★☆☆ |        [现在就用 ECMAScript 6](https://speakerdeck.com/rauschma/using-ecmascript-6-today)       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+| ★★★★★ |   JavaScript 的未来 : ES6 和 ES7 (en-US)   |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
+| ★★★☆☆ |        [现在就用 ECMAScript 6](https://speakerdeck.com/rauschma/using-ecmascript-6-today) (en-US)       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## 必读文章 & 文档
 
-|   Rate   | Title | Author | URL |
+|   推荐等级   | 标题 | 作者 | 链接 |
 | :------: | :-: | :-: | :-: |
 | ★★★★★ |ECMAScript 6 入门| 阮一峰| [ruanyifeng.com](http://es6.ruanyifeng.com/) |
 | ★★★★☆ |       ECMAScript 6 特性速览       | lukehoban |  [Github](https://github.com/lenville/es6features) |
-|★★★★★|现在就用 ECMAScript 6|Sayanee Basu|[Tuts+](https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)|
+| ★★★★☆ |现在就用 ECMAScript 6 (en-US) |Sayanee Basu|[Tuts+](https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)|
+
+## 得力工具
+|   推荐等级   | 标题 | 作者 | 链接 |
+| :------: | :-: | :-: | :-: |
+| ★★★★★ | ES6-Grammer | Kennyluck | [oupeng.com](http://dev.oupeng.com/wp-content/uploads/es6-grammar.html) |

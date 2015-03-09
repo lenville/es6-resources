@@ -34,10 +34,11 @@
 |   Rate   |                 Title                |       Author     | URL |
 | :------: | :----------------------------------: | :--------------: | :-: |
 | ★★★★★ | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ★★★☆☆ |       Using ECMAScript 6 today       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+| ★★★☆☆ |       [Using ECMAScript 6 today](https://speakerdeck.com/rauschma/using-ecmascript-6-today)       | Axel Rauschmayer | Youtube: [I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) /[ II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## Required Reading
 
 |   Rate   | Title | Author | URL |
 | :------: | :-: | :-: | :-: |
-| ★★★★★ | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
+| ★★★★☆ | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
+| ★★★★☆ |Use ECMAScript 6 Today|Sayanee Basu|[Tuts+](https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)|
