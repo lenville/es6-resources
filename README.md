@@ -8,4 +8,7 @@
 > [1] Addy Osmani. ECMAScript 6 Tools. https://github.com/addyosmani/es6-tools, Dec 20, 2013 - now
 >
 > [2] Addy Osmani. Tracking ECMAScript 6 Support. http://addyosmani.com/blog/tracking-es6-support/, August 17, 2013
+>
 > [3] Kennyluck. ECMAScript6规范导读. https://www.parleys.com/talk/ecmascript6--规-范-导-读-4, July 28, 2014
+>
+> [4] Sayanee Basu. Use ECMAScript 6 Today. https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582, 7 May, 2013

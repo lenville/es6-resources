@@ -31,14 +31,23 @@
 
 ## Conf Videos
 
-|   Rate   |                 Title                |       Author     | URL |
-| :------: | :----------------------------------: | :--------------: | :-: |
+| Rate | Title | Author | URL |
+| :--: | :---: | :----: | :-: |
 | ★★★★★ | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
 | ★★★☆☆ |       [Using ECMAScript 6 today](https://speakerdeck.com/rauschma/using-ecmascript-6-today)       | Axel Rauschmayer | Youtube: [I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) /[ II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## Required Reading
 
-|   Rate   | Title | Author | URL |
-| :------: | :-: | :-: | :-: |
+| Rate | Title | Author | URL |
+| :--: | :---: | :----: | :-: |
 | ★★★★☆ | Overview of ECMAScript 6 features | lukehoban | [Github](https://github.com/lukehoban/es6features)|
 | ★★★★☆ |Use ECMAScript 6 Today|Sayanee Basu|[Tuts+](https://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)|
+
+## Other feeds
+
+| Rate | Title | Author | URL |
+| :--: | :---: | :----: | :-: |
+| Pending | ES6 on io.js | io.js | [iojs.org](https://iojs.org/en/es6.html) |
+| Pending | React & ES6 Today | Robert Prehn | [revelry.co](http://revelry.co/development/2015/03/02/es6-and-react/) |
+| Pending | ECMAScript 6 – New language improvements in JavaScript | Ravi Kiran | [dotnetcurry.com](http://www.dotnetcurry.com/showarticle.aspx?ID=1090) |
+| Pending | Building with AngularJS, JSPM, Babel, Gulp and ES6 | Jecelyn | [iconnect360.com](http://engineering.iconnect360.com/angularjs/) |
