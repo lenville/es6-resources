@@ -40,7 +40,7 @@
 | 推荐等级 | 标题 | 作者 | 链接 |
 | :------: | :-: | :--: | :-: |
 | ★★★★★ | JavaScript 的未来 : ES6 和 ES7 (en-US) | Brendan Eich | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ★★★★☆ | ES6: 茁壮成长的 JavaScript (en-US) | [Youtube](https://www.youtube.com/watch?v=mPq5S27qWW8&t=106) |
+| ★★★★☆ | ES6: 茁壮成长的 JavaScript (en-US) | Jack Franklin |[Youtube](https://www.youtube.com/watch?v=mPq5S27qWW8&t=106) |
 | ★★★☆☆ | [现在就用 ECMAScript 6](https://speakerdeck.com/rauschma/using-ecmascript-6-today) (en-US)       | Axel Rauschmayer | Youtube: [Part I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) / [Part II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## 必读文章 & 文档
