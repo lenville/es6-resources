@@ -33,8 +33,9 @@
 
 | Rate | Title | Author | URL |
 | :--: | :---: | :----: | :-: |
-| ★★★★★ | ES6 and ES7 the future of Javascript |    Brendan Eich  | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
-| ★★★☆☆ |       [Using ECMAScript 6 today](https://speakerdeck.com/rauschma/using-ecmascript-6-today)       | Axel Rauschmayer | Youtube: [I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) /[ II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
+| ★★★★★ | ES6 and ES7 the future of Javascript | Brendan Eich | [Youtube](https://www.youtube.com/watch?v=6AytbSdWBKg&t=788) |
+| ★★★★☆ | ES6: JavaScript, grown up | [Youtube](https://www.youtube.com/watch?v=mPq5S27qWW8&t=106) |
+| ★★★☆☆ | [Using ECMAScript 6 today](https://speakerdeck.com/rauschma/using-ecmascript-6-today) | Axel Rauschmayer | Youtube: [I](https://www.youtube.com/watch?v=Fg3bEZIcnUw) /[ II](https://www.youtube.com/watch?v=Vhhq1WpzsnM) |
 
 ## Required Reading
 
